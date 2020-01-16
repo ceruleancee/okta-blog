@@ -24,7 +24,7 @@ Through the rest of this guide you'll be using Okta's free developer service to 
 When you sign up for Okta, you'll be given your own unique Org URL. My demo org is `phdemo.oktapreview.com` which you'll see referenced through the rest of this post.
 
 > widget
-/ˈwɪdʒɪt/
+[_**wij**-ɪt_]
 COMPUTING
 an application, or a component of an interface that enables a user to perform a function or access a service. -Oxford dictionary
 
